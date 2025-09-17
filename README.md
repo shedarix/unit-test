@@ -1,1 +1,1 @@
-[![Coverage Status](https://img.shields.io/badge/coverage-100%25-brightgreen.svg)]()
+[![Node.js CI](https://github.com/shedarix/unit-test/actions/workflows/main.yml/badge.svg)](https://github.com/shedarix/unit-test/actions/workflows/main.yml)
